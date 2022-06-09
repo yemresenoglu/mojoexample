@@ -1,0 +1,2 @@
+# Patika.Dev.Mojo
+ SimpleMojoExample
